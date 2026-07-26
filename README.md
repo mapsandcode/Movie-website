@@ -24,11 +24,11 @@ Netflix tarzında, HTML, CSS ve JavaScript ile geliştirilmiş bir film/dizi ke�
 
 | Masaüstü                                            | Mobil                                         |
 | --------------------------------------------------- | --------------------------------------------- |
-| ![Masaüstü Önizleme](desktop-preview.jpg) | ![Mobil Önizleme](mobile-preview.jpg) |
+| ![Masaüstü Önizleme](screenshots/desktop-preview.jpg) | ![Mobil Önizleme](screenshots/mobile-preview.jpg) |
 
 ### 🎬 Canlı Demo
 
-![Site Demo](demo.gif)
+![Site Demo](screenshots/demo.gif)
 
 ## 📁 Proje Yapısı
 
