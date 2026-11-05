@@ -51,7 +51,7 @@ film-sitesi/
 2. `img/` klasörünün `index.html` ile aynı dizinde olduğundan emin olun.
 3. `index.html` dosyasını bir tarayıcıda açmanız yeterli — herhangi bir build veya kurulum adımı gerekmez.
 4. Projenin canlı haline buradan ulaşabilirsiniz.
-   https://fc-moviewebsite.netlify.app
+   https://fc-moviewebsite.vercel.app
 
 ## 🎯 Kullanım
 
